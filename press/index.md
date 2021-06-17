@@ -1,4 +1,4 @@
-# ![Neon Noodles](../../img/nn/press/nn_logo_gray_bg2.jpg)
+# ![Neon Noodles](../img/nn/press/nn_logo_gray_bg2.jpg)
 
 ## Factsheet
 
@@ -27,7 +27,6 @@ Late 2019/Early 2020
 <li>Solve endlessly replayable open-ended puzzles with over 100 recipes from around the world consisting of 200 unique ingredients.</li>
 <li>Travel the world and master the art of cooking through technological advancement in a cyberpunk setting filled with mysteries.</li>
 </ul>
-</p>
 
 ## Videos
 
@@ -42,29 +41,29 @@ And a gameplay video:
 
 ## Screenshots
 
-download these screenshots as ** [.zip (43MB)](../../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
+download these screenshots as ** [.zip (43MB)](../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
 
-<img src="../../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen03.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen04.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen07.jpg" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/screens/screen08.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen03.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen04.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen07.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen08.jpg" width="400" style="padding:10px;" />
 
 ## Gifs
-<img src="../../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
+<img src="../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
 
 ## Logos & Icon
 
-download all logos/icon as ** [.zip (10MB)](../../img/nn/press/logos/logos.zip "Logos and icon") **
+download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Logos and icon") **
 
 
-<img src="../../img/nn/press/logos/nn_logo_new_transparent_3840x2160.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/logos/nn_logo_new_on_black_3840x2160.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/logos/nn_icon.png" width="400" style="padding:10px;" />
-<img src="../../img/nn/press/logos/vivid_helix_logo.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/nn_logo_new_transparent_3840x2160.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/nn_logo_new_on_black_3840x2160.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/nn_icon.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/vivid_helix_logo.png" width="400" style="padding:10px;" />
 
 
 ## Awards & Recognition
@@ -128,7 +127,7 @@ Elyot Grant
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://vividhelix.com "Vivid Helix"
+[homepage]: https://vividhelix.com "Vivid Helix"
 
 [contact]: mailto:radu@vividhelix.com
 
@@ -141,4 +140,4 @@ Elyot Grant
 ## Monetization Permission
 
 Vivid Helix allows for the contents of Neon Noodles to be published through video broadcasting services for any commercial or non-commercial purposes.
-Monetization of videos created containing assets from Neon Noodles is legally & explicitly allowed by Vivid Helix. This permission can be found in writing at [**http://vividhelix.com/neonnoodles/press/index.html#neon-noodles-monetization-permission**](http://vividhelix.com/neonnoodles/press/index.html#neon-noodles-monetization-permission)
+Monetization of videos created containing assets from Neon Noodles is legally & explicitly allowed by Vivid Helix. This permission can be found in writing at [**https://neonnoodles.com/press/index.html#neon-noodles-monetization-permission**](http://vividhelix.com/neonnoodles/press/index.html#neon-noodles-monetization-permission)
