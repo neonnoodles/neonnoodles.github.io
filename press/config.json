@@ -1,0 +1,24 @@
+{
+  "title": "Neon Noodles",
+  "largeLinks": [
+    {
+      "name": "Neon Noodles - Home",
+      "link": ".."
+    }
+  ],
+  "layout": {
+    "40%_Width": [
+      "factsheet"
+    ],
+    "60%_Width": [
+      "description",
+      "history",
+      "features"
+    ],
+    "50%_Width": [
+      "credits",
+      "contact"
+    ]
+  },
+  "googleAnalytics": "UA-44916152-1"
+}
