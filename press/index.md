@@ -70,13 +70,17 @@ download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Log
 
 > * Winner of Best Gameplay at [**Design and Game Showcase**](https://twitter.com/Design_And_Game/status/1179924193523179521?s=20) - *Oct 2019*
 > * Finalist in BIG Impact: Educational at [**BIG Festival 2021**](https://games.bigfestival.com.br/games/category/big-impact-melhor-jogo-educacional) - *May 2021*
+> * Official [**PAX 10**](https://west.paxsite.com/en-us/features/the-pax-10.html) selection at [**PAX West 2021**](https://west.paxsite.com/en-us/features/the-pax-10.html) - *Sep 2021*
 > * Official [**Indie Megabooth**](https://indiemegabooth.com/event/gdc-2020/) selection at [**GDC 2020**](https://indiemegabooth.com/event/gdc-2020/) - *Mar 2020*
 > * Official [**Indie Megabooth**](https://indiemegabooth.com/indie-megabooth-pax-west-2019-lineup-revealed/) selection at [**PAX West 2019**](https://indiemegabooth.com/indie-megabooth-pax-west-2019-lineup-revealed/) - *Aug 2019*
 > * Official [**PAX Rising**](https://www.paxegx.com/pax-rising) selection at [**PAX Online 2020**](https://www.paxegx.com/pax-rising) - *Sep 2020*
 > * Official selection at [**BitSummit Gaiden 2020**](https://bitsummit.org/en/games/) - *Jun 2020*
+> * Official [**Indie Game Area**](https://expo.nikkeibp.co.jp/tgs/2021/en/) selection at [**Tokyo Game Show 2021**](https://expo.nikkeibp.co.jp/tgs/2021/en/)- *Sep 2021*
+> * Official selection at [**Seattle Indies Expo 2021**](https://six.seattleindies.org/) - *Sep 2021*
 > * Official selection at [**SIX at PAX 2019**](http://seattleindies.org/six/) - *Sep 2019*
 > * Official [**Indie Prize**](http://www.indieprize.org) selection at [**GameDaily Connect USA 2019**](http://usa.casualconnect.org/) - *Aug 2019*
-> * Semifinalist of [**XDC Develeoper Contest**](https://gameworldobserver.com/2021/06/09/winners-of-xsollas-xdc-contest-canada-announced) selection at [**Game Dev Day Canada 2021**](https://dev-day-canada.wnhub.io/#contest) - *Jun 2021*
+> * Semifinalist of [**XDC Developer Contest**](https://gameworldobserver.com/2021/06/09/winners-of-xsollas-xdc-contest-canada-announced) selection at [**Game Dev Day Canada 2021**](https://dev-day-canada.wnhub.io/#contest) - *Jun 2021*
+> * Official [**Indie Playground**](https://dreamhack.com/beyond/indieplayground/) selection at [**Dreamhack Beyond 2021**](https://dreamhack.com/beyond/indieplayground/) - *Jul 2021*
 > * Official selection at [**IWOCon 2021**]( https://www.indiegamelover.com/event/IWOCon2020) - *Mar 2021*
 
 
