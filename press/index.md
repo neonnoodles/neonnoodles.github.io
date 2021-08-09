@@ -76,7 +76,7 @@ download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Log
 > * Official [**PAX Rising**](https://www.paxegx.com/pax-rising) selection at [**PAX Online 2020**](https://www.paxegx.com/pax-rising) - *Sep 2020*
 > * Official selection at [**BitSummit Gaiden 2020**](https://bitsummit.org/en/games/) - *Jun 2020*
 > * Official [**Indie Game Area**](https://expo.nikkeibp.co.jp/tgs/2021/en/) selection at [**Tokyo Game Show 2021**](https://expo.nikkeibp.co.jp/tgs/2021/en/)- *Sep 2021*
-> * Official selection at [**Seattle Indies Expo 2021**](https://six.seattleindies.org/) - *Sep 2021*
+> * Official selection at [**Seattle Indies Expo 2021**](https://www.seattleindies.org/and-the-six-2021-nominees-are/) - *Sep 2021*
 > * Official selection at [**SIX at PAX 2019**](http://seattleindies.org/six/) - *Sep 2019*
 > * Official [**Indie Prize**](http://www.indieprize.org) selection at [**GameDaily Connect USA 2019**](http://usa.casualconnect.org/) - *Aug 2019*
 > * Semifinalist of [**XDC Developer Contest**](https://gameworldobserver.com/2021/06/09/winners-of-xsollas-xdc-contest-canada-announced) selection at [**Game Dev Day Canada 2021**](https://dev-day-canada.wnhub.io/#contest) - *Jun 2021*
