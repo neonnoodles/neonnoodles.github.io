@@ -76,6 +76,7 @@ download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Log
 > * Official [**Indie Game Area**](https://expo.nikkeibp.co.jp/tgs/2021/en/) selection at [**Tokyo Game Show 2021**](https://expo.nikkeibp.co.jp/tgs/2021/en/)- *Sep 2021*
 > * Official selection at [**Seattle Indies Expo 2021**](https://www.seattleindies.org/and-the-six-2021-nominees-are/) - *Sep 2021*
 > * Official selection at [**SIX at PAX 2019**](https://six.seattleindies.org/2019/) - *Sep 2019*
+> * Official Indie Zone selection at [**Indie Prize**](http://www.indieprize.org) selection at [**MEGAMIGS 2021**](https://megamigs.com/en/indie-zone/) - *Oct 2021*
 > * Official [**Indie Prize**](http://www.indieprize.org) selection at [**GameDaily Connect USA 2019**](http://usa.casualconnect.org/) - *Aug 2019*
 > * Semifinalist of [**XDC Developer Contest**](https://gameworldobserver.com/2021/06/09/winners-of-xsollas-xdc-contest-canada-announced) selection at [**Game Dev Day Canada 2021**](https://dev-day-canada.wnhub.io/#contest) - *Jun 2021*
 > * Official [**Indie Playground**](https://dreamhack.com/beyond/indieplayground/) selection at [**Dreamhack Beyond 2021**](https://dreamhack.com/beyond/indieplayground/) - *Jul 2021*
