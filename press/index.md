@@ -6,7 +6,7 @@
 Vivid Helix
 
 **Release Date:**  
-Late 2019/Early 2020
+Nov 2019 - Steam Early Access; 2021 - Full Release 
 
 **Platforms**
 
