@@ -37,20 +37,18 @@ Here's the game trailer:
 <br>
 And a gameplay video:
 
-<iframe src="//www.youtube.com/embed/ETlhIVujm3A" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/NuqasR7lID8" frameborder="0" allowfullscreen></iframe>
 
 ## Screenshots
 
 download these screenshots as ** [.zip (43MB)](../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
 
-<img src="../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen03.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen04.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen07.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/screen08.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_01.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_02.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_03.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_04.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_05.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/nn_screenshot_06.jpg" width="400" style="padding:10px;" />
 
 ## Gifs
 <img src="../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
