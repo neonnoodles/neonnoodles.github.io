@@ -40,7 +40,7 @@ Here's the game trailer:
 
 ## Screenshots
 
-download these screenshots as ** [.zip (43MB)](../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
+download these screenshots as ** [.zip](../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
 
 <img src="../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
 <img src="../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
@@ -54,13 +54,14 @@ download these screenshots as ** [.zip (43MB)](../img/nn/press/screens/neon_nood
 
 ## Logos & Icon
 
-download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Logos and icon") **
+download all logos/icon as ** [.zip](../img/nn/press/logos/logos.zip "Logos and icon") **
 
 
 <img src="../img/nn/press/logos/nn_logo_new_transparent_3840x2160.png" width="400" style="padding:10px;" />
 <img src="../img/nn/press/logos/nn_logo_new_on_black_3840x2160.png" width="400" style="padding:10px;" />
 <img src="../img/nn/press/logos/nn_icon.png" width="400" style="padding:10px;" />
-<img src="../img/nn/press/logos/vivid_helix_logo.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/vivid_helix_all_neon_logo_transparent.png" width="400" style="padding:10px;" />
+<img src="../img/nn/press/logos/vivid_helix_all_neon_logo_dark_bg.png" width="400" style="padding:10px;" />
 
 
 ## Awards & Recognition
@@ -92,14 +93,17 @@ download all logos/icon as ** [.zip (10MB)](../img/nn/press/logos/logos.zip "Log
 ## Project Credits
 
 
-**Development/Design**
+**Game Design/Development**
 Radu Muresan
 
-**2D/3D Art**
+**2D/3D Art/Additional Narrative Design**
 Owen McManus
 
-**Audio**
+**Music/SFX**
 Sid Barnhoorn
+
+**Story/Narrative Design**
+Steven Messner
 
 **Marketing**
 Patrick Seibert
@@ -110,8 +114,11 @@ Plan of Attack
 **Additional work - 3D Art**
 Farhan Qureshi
 
-**Additional work - Game Design**
+**Additional Puzzle Design**
 Elyot Grant
+
+**Additional QA**
+Anthony Folk
 
 
 ## Contact
