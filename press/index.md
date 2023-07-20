@@ -6,7 +6,7 @@
 Vivid Helix
 
 **Release Date:**  
-Nov 2019 - Steam Early Access; 2021 - Full Release 
+Nov 2019 - Steam Early Access; Aug 2023 - Full PC Release 
 
 **Platforms**
 
@@ -18,37 +18,36 @@ Nov 2019 - Steam Early Access; 2021 - Full Release
 
 ## Description
 
-<p>Set in a dark and mysterious cyberpunk world, you are put in charge of the futuristic food factory known as Neon Noodles. Inspired by the open-ended machine-building puzzle games of Zachtronics such as Opus Magnum and Infinifactory, you design and build your own fully automated kitchen to prepare meals using robot chefs. Guacamole, bibimbap, ramen, spaetzle, paella and many more recipes are waiting for you to be optimized.
+In a dark and dangerous cyberpunk future, food is the ultimate symbol of wealth and status. Using a revolutionary invention called Neon Noodles, the Aristocracy indulges their every culinary whim. Everyone else begs for scraps. With no memory and no name, you are just a cog in this machine. But when a mysterious message unlocks your forgotten past, it thrusts you into a daring, clandestine heist to seize control of Neon Noodles and reclaim your legacy.
 
-</p><p><strong>Key Features:</strong>
-<ul>
-<li>Automate your robot chefs through an intuitive replay and record system where you control the robot that creates the program, then edit it later if needed.</li>
-<li>Customize your cooking loops to be as simple, elaborate or streamlined as you want and compare your wits with other players around the world on the global leaderboards</li>
-<li>Solve endlessly replayable open-ended puzzles with over 100 recipes from around the world consisting of 200 unique ingredients.</li>
-<li>Travel the world and master the art of cooking through technological advancement in a cyberpunk setting filled with mysteries.</li>
-</ul>
+Neon Noodles is inspired by the open-ended, machine-building puzzle games of Zachtronics such as Opus Magnum and Infinifactory. Take on challenging assignments from a cast of intriguing clients, design complex and beautiful automations to uncover the truth behind Neon Noodles.
+
+Do you have what it takes to pry humanity's future from the clutches of corporate greed?
+
+Features
+- Create automations as intricate or as simple as you like, using everything from programmable robot chefs to teleport stations.
+- Automate your robot chefs through an intuitive record-and-replay system where you control a robot and have it replicate your exact inputs, then edit later if needed.
+- Solve endlessly replayable open-ended puzzles with 250 recipes from around the world consisting of 400 unique ingredients. Jollof rice, Clam Chowder, Spaetzle, Bibimbap — so many recipes to optimize!
+- Immerse yourself in a cyberpunk story where food is a luxury and ruthless corporate greed runs unchecked.
+- Compare your cooking automations with other players on the global leaderboards.
 
 ## Videos
 
 Here's the game trailer:
 
-<iframe src="//www.youtube.com/embed/ciZZhpgUYcw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/spLhX85U4No" frameborder="0" allowfullscreen></iframe>
 
-<br>
-And a gameplay video:
-
-<iframe src="//www.youtube.com/embed/NuqasR7lID8" frameborder="0" allowfullscreen></iframe>
 
 ## Screenshots
 
 download these screenshots as ** [.zip (43MB)](../img/nn/press/screens/neon_noodles_screens.zip "Screenshots zip") **
 
-<img src="../img/nn/press/screens/nn_screenshot_01.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/nn_screenshot_02.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/nn_screenshot_03.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/nn_screenshot_04.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/nn_screenshot_05.jpg" width="400" style="padding:10px;" />
-<img src="../img/nn/press/screens/nn_screenshot_06.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen01.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen02.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen03.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen04.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
+<img src="../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
 
 ## Gifs
 <img src="../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
