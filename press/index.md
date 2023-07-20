@@ -49,8 +49,9 @@ download these screenshots as ** [.zip](../img/nn/press/screens/neon_noodles_scr
 <img src="../img/nn/press/screens/screen05.jpg" width="400" style="padding:10px;" />
 <img src="../img/nn/press/screens/screen06.jpg" width="400" style="padding:10px;" />
 
-## Gifs
-<img src="../img/nn/press/gifs/50_neon_noodles_gif.gif" width="400" style="padding:10px;" />
+## Gif/Mp4
+<img src="../img/nn/press/gifs/endless_avocado_loop.gif" width="400" style="padding:10px;" />
+<img src="../img/nn/press/gifs/endless_avocado_loop.mp4" width="400" style="padding:10px;" />
 
 ## Logos & Icon
 
